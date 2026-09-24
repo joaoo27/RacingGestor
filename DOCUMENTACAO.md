@@ -2,6 +2,12 @@
 
 ## 1. Descrição do Sistema
 
+O **RacingGestor** é um sistema desenvolvido em linguagem C para auxiliar no gerenciamento de campeonatos de Fórmula 1. O problema que ele busca resolver é a dificuldade de manter, de forma centralizada e organizada, as informações de pilotos, equipes, pistas, corridas e resultados. Quando esses dados são controlados manualmente ou ficam distribuídos, podem ocorrer duplicidades, perda de informações e dificuldades para localizar os resultados e acompanhar a pontuação do campeonato.
+
+Para solucionar esse problema, o sistema permite cadastrar e consultar pilotos, equipes, pistas e corridas, mantendo o relacionamento entre esses registros. Também é possível registrar o resultado de cada corrida, associando-a à pista utilizada e armazenando a posição obtida por cada piloto. A partir dessas posições, os pontos correspondentes são calculados e atribuídos aos pilotos e às equipes, facilitando o acompanhamento da classificação.
+
+Dessa forma, o **RacingGestor** oferece uma solução simples e estruturada para organizar os dados do campeonato, reduzir inconsistências nos cadastros e tornar mais ágil a consulta das informações e dos resultados das corridas.
+
 ## 2. Fluxo de Utilização Esperado para o Sistema
 
 ## 3. Fluxograma da Lógica do Sistema
