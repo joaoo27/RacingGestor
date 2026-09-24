@@ -43,8 +43,6 @@ Ao iniciar o *RacingGestor*, o usuário terá acesso ao menu principal, que apre
 ### Tratamento de Erros
 
 As ações que apresentarem algum problema, como piloto inexistente, equipe não registrada, corrida não cadastrada ou tentativa de realizar um cadastro duplicado, deverão apresentar mensagens objetivas ao usuário. Quando for inserido um código ou registro que não esteja presente no sistema, será informado que o cadastro solicitado não foi localizado. Depois da conclusão de cada operação, o usuário poderá voltar ao menu principal e selecionar uma nova funcionalidade.
-## 3. Fluxograma da Lógica do Sistema
-![Fluxograma Principal](Fluxograma.jpg)
 
 ## 3. Fluxograma da Lógica do Sistema
 ![Fluxograma Principal](Fluxograma.jpg)
